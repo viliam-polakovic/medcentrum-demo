@@ -69,6 +69,10 @@
 		{
 			"step": "runPHP",
 			"code": "<?php require '/wordpress/demo-content.php';"
+		},
+		{
+			"step": "runPHP",
+			"code": "<?php require '/wordpress/wp-load.php'; update_user_meta( 1, 'show_admin_bar_front', 'false' );"
 		}
 	]
 }
