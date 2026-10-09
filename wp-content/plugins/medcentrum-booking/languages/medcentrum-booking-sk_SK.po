@@ -1,0 +1,590 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MedCentrum – Online Booking\n"
+"POT-Creation-Date: 2026-10-09 15:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2026-10-09 15:58+0000\n"
+"Language: sk_SK\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: includes/bookings.php:95
+#: includes/shortcode.php:78
+msgid "%1$s at %2$s"
+msgstr "%1$s o %2$s"
+
+#: includes/shortcode.php:89
+msgid "%1$s – %2$s. We have sent a confirmation to %3$s."
+msgstr "%1$s – %2$s. Potvrdenie sme poslali na %3$s."
+
+#: includes/shortcode.php:91
+msgid "%1$s – %2$s. We will confirm the appointment by e-mail at %3$s."
+msgstr "%1$s – %2$s. Termín Vám potvrdíme e-mailom na %3$s."
+
+#: includes/shortcode.php:52
+msgid "%d free slot"
+msgid_plural "%d free slots"
+msgstr[0] "%d voľný termín"
+msgstr[1] "%d voľné termíny"
+msgstr[2] "%d voľných termínov"
+
+#: includes/shortcode.php:66
+msgid "%s – fully booked."
+msgstr "%s – už bez voľných termínov."
+
+#: includes/bookings.php:30
+msgid "Add booking"
+msgstr "Pridať rezerváciu"
+
+#: includes/settings.php:188
+msgid "Add the booking form to any page with the %s shortcode. The MedCentrum theme also shows it on the home page."
+msgstr "Rezervačný formulár vložíte na ľubovoľnú stránku shortcodom %s. Téma MedCentrum ho zobrazuje aj na úvodnej stránke."
+
+#: includes/shortcode.php:69
+msgid "Afternoon"
+msgstr "Popoludní"
+
+#: includes/bookings.php:188
+msgid "All"
+msgstr "Všetky"
+
+#: includes/bookings.php:191
+msgid "All statuses"
+msgstr "Všetky stavy"
+
+#: includes/bookings.php:107
+#: includes/emails.php:27
+#: includes/emails.php:101
+#: includes/shortcode.php:80
+msgid "Appointment"
+msgstr "Termín"
+
+#: includes/settings.php:249
+msgid "Appointment length"
+msgstr "Dĺžka termínu"
+
+#: includes/bookings.php:13
+msgid "Awaiting confirmation"
+msgstr "Čaká na potvrdenie"
+
+#: includes/settings.php:258
+msgid "Book ahead"
+msgstr "Objednávanie dopredu"
+
+#: includes/i18n.php:119
+#: medcentrum-booking.php:98
+msgid "Book an appointment"
+msgstr "Objednať sa"
+
+#: includes/shortcode.php:255
+msgid "Book another appointment"
+msgstr "Objednať ďalší termín"
+
+#: includes/shortcode.php:246
+msgid "Book appointment"
+msgstr "Záväzne objednať"
+
+#: includes/shortcode.php:121
+msgid "Book online"
+msgstr "Objednajte sa online"
+
+#: includes/bookings.php:334
+msgid "Booked online"
+msgstr "Rezervované online"
+
+#: includes/bookings.php:27
+#: includes/bookings.php:32
+msgid "Booking"
+msgstr "Rezervácia"
+
+msgid "Booking calendar where patients pick a specific day and time. Add the form to any page with the [medcentrum_rezervacia] shortcode. Multilingual (DE / EN / SK), works with Polylang."
+msgstr "Rezervačný kalendár, v ktorom sa pacienti objednajú na konkrétny deň a čas. Formulár vložíte na stránku shortcodom [medcentrum_rezervacia]. Viacjazyčný (DE / EN / SK), spolupracuje s Polylangom."
+
+#: includes/bookings.php:268
+msgid "Booking details"
+msgstr "Detaily rezervácie"
+
+#: includes/emails.php:51
+msgid "Booking details:"
+msgstr "Detail rezervácie:"
+
+#: includes/settings.php:122
+#: includes/settings.php:183
+msgid "Booking settings"
+msgstr "Nastavenia objednávania"
+
+#: includes/bookings.php:26
+#: includes/bookings.php:28
+#: includes/bookings.php:29
+msgid "Bookings"
+msgstr "Rezervácie"
+
+#: includes/bookings.php:15
+msgid "Cancelled"
+msgstr "Zrušená"
+
+#: includes/shortcode.php:132
+#: includes/shortcode.php:152
+#: includes/shortcode.php:180
+msgid "Change"
+msgstr "Zmeniť"
+
+#: includes/shortcode.php:208
+msgid "Choose…"
+msgstr "Vyberte…"
+
+#: includes/settings.php:195
+msgid "Clinic"
+msgstr "Ambulancia"
+
+#: includes/settings.php:266
+msgid "Closed days"
+msgstr "Zatvorené dni"
+
+#: includes/settings.php:272
+msgid "Confirm online bookings automatically"
+msgstr "Online rezervácie potvrdiť automaticky"
+
+#: includes/settings.php:271
+#: includes/shortcode.php:241
+msgid "Confirmation"
+msgstr "Potvrdenie"
+
+#: includes/bookings.php:14
+msgid "Confirmed"
+msgstr "Potvrdená"
+
+#: includes/shortcode.php:84
+msgid "Connection failed. Check your internet connection and try again."
+msgstr "Spojenie zlyhalo. Skontrolujte pripojenie a skúste to znova."
+
+#: includes/bookings.php:110
+#: includes/shortcode.php:82
+msgid "Contact"
+msgstr "Kontakt"
+
+#: includes/shortcode.php:234
+msgid "Continue"
+msgstr "Pokračovať"
+
+#: includes/bookings.php:305
+msgid "Date"
+msgstr "Dátum"
+
+#: includes/shortcode.php:150
+msgid "Date and time"
+msgstr "Dátum a čas"
+
+#: includes/bookings.php:319
+#: includes/emails.php:34
+#: includes/shortcode.php:201
+msgid "Date of birth"
+msgstr "Dátum narodenia"
+
+#: includes/settings.php:224
+msgid "Day"
+msgstr "Deň"
+
+#: includes/bookings.php:317
+#: includes/emails.php:31
+#: includes/shortcode.php:193
+msgid "E-mail"
+msgstr "E-mail"
+
+#: includes/settings.php:202
+msgid "E-mail for new bookings"
+msgstr "E-mail pre nové rezervácie"
+
+#: includes/bookings.php:329
+msgid "E-mail the patient about the new status or time"
+msgstr "Poslať pacientovi e-mail o zmene stavu alebo termínu"
+
+#: includes/settings.php:262
+msgid "Earliest"
+msgstr "Najskôr o"
+
+#: includes/bookings.php:334
+msgid "Entered manually"
+msgstr "Zadané ručne"
+
+#: includes/bookings.php:315
+#: includes/shortcode.php:185
+msgid "First name"
+msgstr "Meno"
+
+#: includes/settings.php:224
+#: includes/settings.php:242
+msgid "From"
+msgstr "Od"
+
+#: includes/bookings.php:321
+#: includes/emails.php:37
+#: includes/shortcode.php:83
+#: includes/shortcode.php:206
+msgid "Health insurer"
+msgstr "Zdravotná poisťovňa"
+
+#: includes/settings.php:216
+msgid "Health insurers"
+msgstr "Zdravotné poisťovne"
+
+#: includes/emails.php:97
+msgid "Hello,"
+msgstr "Dobrý deň,"
+
+#: includes/shortcode.php:226
+msgid "I agree to the processing of my personal data for booking and providing medical care."
+msgstr "Súhlasím so spracovaním osobných údajov na účel objednania a poskytnutia zdravotnej starostlivosti."
+
+#: includes/emails.php:110
+msgid "If you need to change or cancel the appointment, call us at %s."
+msgstr "Ak potrebujete termín zmeniť alebo zrušiť, zavolajte nám na %s."
+
+#: includes/emails.php:111
+msgid "If you need to change or cancel the appointment, reply to this e-mail."
+msgstr "Ak potrebujete termín zmeniť alebo zrušiť, odpovedzte na tento e-mail."
+
+#: includes/settings.php:255
+msgid "Increase if several doctors see patients at the same time."
+msgstr "Zvýšte, ak v rovnakom čase ordinuje viac lekárov."
+
+#: includes/emails.php:113
+msgid "Kind regards"
+msgstr "S pozdravom"
+
+#: includes/emails.php:39
+msgid "Language"
+msgstr "Jazyk"
+
+#: includes/bookings.php:316
+#: includes/shortcode.php:189
+msgid "Last name"
+msgstr "Priezvisko"
+
+#: includes/settings.php:245
+msgid "Leave empty if no break should be left out of the calendar."
+msgstr "Nechajte prázdne, ak sa prestávka nemá z kalendára vynechať."
+
+#: includes/shortcode.php:59
+msgid "Loading available times…"
+msgstr "Načítavam voľné časy…"
+
+#: includes/settings.php:240
+msgid "Lunch break"
+msgstr "Obedňajšia prestávka"
+
+msgid "MedCentrum – Online Booking"
+msgstr "MedCentrum – Online objednávanie"
+
+#: includes/shortcode.php:68
+msgid "Morning"
+msgstr "Dopoludnia"
+
+#: includes/settings.php:198
+msgid "Name"
+msgstr "Názov"
+
+#: includes/bookings.php:31
+msgid "New booking"
+msgstr "Nová rezervácia"
+
+#: includes/emails.php:59
+msgid "New booking: %1$s – %2$s"
+msgstr "Nová rezervácia: %1$s – %2$s"
+
+#: includes/emails.php:41
+msgid "New online booking"
+msgstr "Nová online rezervácia"
+
+#: includes/shortcode.php:161
+msgid "Next month"
+msgstr "Nasledujúci mesiac"
+
+#: includes/bookings.php:34
+msgid "No bookings"
+msgstr "Žiadne rezervácie"
+
+#: includes/bookings.php:325
+#: includes/emails.php:47
+msgid "Note from the patient"
+msgstr "Poznámka pacienta"
+
+#: includes/settings.php:268
+msgid "One date (YYYY-MM-DD) or range per line – public holidays, vacations. Text after the date is a note."
+msgstr "Jeden dátum (RRRR-MM-DD) alebo rozsah na riadok – sviatky, dovolenky. Text za dátumom slúži ako poznámka."
+
+#: includes/settings.php:218
+msgid "One per line. Leave empty to hide the field from the form."
+msgstr "Jedna na riadok. Ak necháte prázdne, pole sa vo formulári nezobrazí."
+
+#: includes/settings.php:213
+msgid "One service per line. Patients choose it in the first step."
+msgstr "Jedna služba na riadok. Pacient si ju vyberie v prvom kroku."
+
+#: includes/settings.php:224
+msgid "Open"
+msgstr "Ordinuje sa"
+
+#: includes/settings.php:222
+msgid "Opening hours"
+msgstr "Ordinačné hodiny"
+
+#: includes/bookings.php:187
+msgid "Past"
+msgstr "Minulé"
+
+#: includes/bookings.php:108
+#: includes/emails.php:29
+#: includes/shortcode.php:81
+msgid "Patient"
+msgstr "Pacient"
+
+#: includes/settings.php:253
+msgid "Patients per slot"
+msgstr "Pacientov na jeden termín"
+
+#: includes/bookings.php:184
+msgid "Period"
+msgstr "Obdobie"
+
+#: includes/bookings.php:318
+#: includes/emails.php:30
+#: includes/settings.php:206
+#: includes/shortcode.php:197
+msgid "Phone"
+msgstr "Telefón"
+
+#: includes/emails.php:106
+msgid "Please arrive 10 minutes early and bring your health insurance card."
+msgstr "Prosíme, príďte 10 minút pred termínom a prineste si preukaz poistenca."
+
+#: includes/rest.php:147
+msgid "Please check the highlighted fields."
+msgstr "Skontrolujte prosím vyznačené polia."
+
+#: includes/rest.php:190
+msgid "Please choose a date and time."
+msgstr "Vyberte dátum a čas."
+
+#: includes/rest.php:189
+#: includes/shortcode.php:136
+msgid "Please choose a service."
+msgstr "Vyberte službu."
+
+#: includes/rest.php:196
+msgid "Please choose your health insurer."
+msgstr "Vyberte zdravotnú poisťovňu."
+
+#: includes/rest.php:195
+msgid "Please enter a valid date of birth."
+msgstr "Zadajte platný dátum narodenia."
+
+#: includes/rest.php:193
+msgid "Please enter a valid e-mail address."
+msgstr "Zadajte platný e-mail."
+
+#: includes/rest.php:194
+msgid "Please enter a valid phone number."
+msgstr "Zadajte platné telefónne číslo."
+
+#: includes/rest.php:191
+msgid "Please enter your first name."
+msgstr "Zadajte meno."
+
+#: includes/rest.php:192
+msgid "Please enter your last name."
+msgstr "Zadajte priezvisko."
+
+#: includes/shortcode.php:159
+msgid "Previous month"
+msgstr "Predchádzajúci mesiac"
+
+#: includes/shortcode.php:228
+msgid "Privacy policy"
+msgstr "Ochrana osobných údajov"
+
+#: includes/shortcode.php:216
+msgid "Reason for the visit / note"
+msgstr "Dôvod návštevy / poznámka"
+
+#: includes/settings.php:277
+msgid "Save settings"
+msgstr "Uložiť nastavenia"
+
+#: includes/bookings.php:33
+msgid "Search"
+msgstr "Hľadať"
+
+#: includes/shortcode.php:57
+#: includes/shortcode.php:168
+msgid "Select a day in the calendar."
+msgstr "Vyberte deň v kalendári."
+
+#: includes/bookings.php:109
+#: includes/bookings.php:302
+#: includes/emails.php:28
+#: includes/emails.php:102
+#: includes/shortcode.php:79
+#: includes/shortcode.php:130
+msgid "Service"
+msgstr "Služba"
+
+#: includes/settings.php:211
+msgid "Services"
+msgstr "Služby"
+
+#: includes/settings.php:123
+msgid "Settings"
+msgstr "Nastavenia"
+
+#: includes/settings.php:208
+msgid "Shown to patients who cannot find a suitable slot."
+msgstr "Zobrazí sa pacientom, keď si nenájdu vhodný termín."
+
+#: includes/rest.php:157
+msgid "Someone else is booking this slot right now. Please try again in a moment."
+msgstr "Tento termín si práve rezervuje niekto iný. Skúste to o chvíľu znova."
+
+#: includes/bookings.php:111
+#: includes/bookings.php:190
+#: includes/bookings.php:308
+msgid "Status"
+msgstr "Stav"
+
+#: includes/shortcode.php:87
+msgid "Thank you, we have received your request"
+msgstr "Ďakujeme, požiadavku sme prijali"
+
+#: includes/shortcode.php:86
+msgid "Thank you, your appointment is booked"
+msgstr "Ďakujeme, Váš termín je rezervovaný"
+
+#: includes/shortcode.php:85
+msgid "The booking could not be completed."
+msgstr "Rezerváciu sa nepodarilo dokončiť."
+
+#: includes/rest.php:172
+msgid "The booking could not be saved. Please call us."
+msgstr "Rezerváciu sa nepodarilo uložiť. Zavolajte nám prosím."
+
+#: includes/emails.php:51
+msgid "The booking is waiting for your confirmation:"
+msgstr "Rezervácia čaká na vaše potvrdenie:"
+
+#: includes/shortcode.php:63
+msgid "The calendar could not be loaded. Please refresh the page or call us at %s."
+msgstr "Kalendár sa nepodarilo načítať. Obnovte prosím stránku alebo nám zavolajte na %s."
+
+#: includes/shortcode.php:64
+msgid "The calendar could not be loaded. Please refresh the page."
+msgstr "Kalendár sa nepodarilo načítať. Obnovte prosím stránku."
+
+#: includes/rest.php:93
+msgid "The request could not be processed."
+msgstr "Požiadavku sa nepodarilo spracovať."
+
+#: includes/shortcode.php:60
+msgid "The times could not be loaded. Please try again."
+msgstr "Časy sa nepodarilo načítať. Skúste to prosím znova."
+
+#: includes/bookings.php:35
+msgid "The trash is empty"
+msgstr "Kôš je prázdny"
+
+#: includes/shortcode.php:58
+msgid "There are no free slots left this month."
+msgstr "V tomto mesiaci už nie sú voľné termíny."
+
+#: includes/rest.php:161
+msgid "This slot is no longer available. Please choose another time."
+msgstr "Tento termín už nie je voľný. Vyberte si prosím iný čas."
+
+#: includes/bookings.php:306
+msgid "Time"
+msgstr "Čas"
+
+#: includes/settings.php:224
+#: includes/settings.php:244
+msgid "To"
+msgstr "Do"
+
+#: includes/bookings.php:186
+msgid "Today"
+msgstr "Dnes"
+
+#: includes/rest.php:98
+msgid "Too many bookings were made from this device. Please try again later or call us."
+msgstr "Z tohto zariadenia už bolo vytvorených priveľa rezervácií. Skúste to prosím neskôr alebo nám zavolajte."
+
+#: includes/settings.php:180
+msgid "Translations go on the same line: de: Physiotherapie | en: Physiotherapy | sk: Fyzioterapia. The first text is stored with each booking – do not change it once bookings exist."
+msgstr "Preklady píšte do toho istého riadku: de: Physiotherapie | en: Physiotherapy | sk: Fyzioterapia. Prvý text sa ukladá ku každej rezervácii – keď už existujú rezervácie, nemeňte ho."
+
+#: includes/bookings.php:185
+msgid "Upcoming"
+msgstr "Nadchádzajúce"
+
+#: includes/emails.php:83
+msgid "We confirm your appointment:"
+msgstr "Potvrdzujeme Váš termín:"
+
+#: includes/emails.php:93
+msgid "We have received your appointment request. We will send you another e-mail once it is confirmed."
+msgstr "Prijali sme Vašu požiadavku na termín. Po potvrdení Vám pošleme ďalší e-mail."
+
+#: includes/emails.php:92
+msgid "We have received your request – %s"
+msgstr "Prijali sme Vašu požiadavku – %s"
+
+#: includes/rest.php:197
+msgid "We need your consent to process your data to book the appointment."
+msgstr "Bez súhlasu so spracovaním údajov nemôžeme termín rezervovať."
+
+#: includes/settings.php:273
+msgid "When off, bookings wait for your confirmation. The patient first gets an e-mail that the request was received, then another one once you confirm."
+msgstr "Ak je vypnuté, rezervácia čaká na vaše potvrdenie. Pacient dostane e-mail o prijatí požiadavky a po potvrdení ďalší."
+
+#: includes/emails.php:87
+msgid "Your appointment has been cancelled – %s"
+msgstr "Zrušenie termínu – %s"
+
+#: includes/emails.php:88
+msgid "Your appointment has been cancelled:"
+msgstr "Váš termín bol zrušený:"
+
+#: includes/emails.php:82
+msgid "Your appointment is confirmed – %s"
+msgstr "Potvrdenie termínu – %s"
+
+#: includes/shortcode.php:258
+msgid "Your data is sent encrypted and only the clinic staff can see it."
+msgstr "Vaše údaje sú prenášané šifrovane a vidí ich iba personál ambulancie."
+
+#: includes/shortcode.php:178
+msgid "Your details"
+msgstr "Vaše údaje"
+
+#: includes/settings.php:259
+msgid "days"
+msgstr "dní"
+
+#: includes/shortcode.php:165
+msgid "free slots"
+msgstr "voľné termíny"
+
+#: includes/settings.php:263
+msgid "hours from now"
+msgstr "hodín od teraz"
+
+#: includes/bookings.php:93
+msgid "l, F j, Y"
+msgstr "l j. F Y"
+
+#: includes/settings.php:250
+msgid "minutes"
+msgstr "minút"
+
+#: includes/shortcode.php:67
+msgid "no free slots"
+msgstr "bez voľných termínov"

@@ -1,0 +1,589 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MedCentrum – Online Booking\n"
+"POT-Creation-Date: 2026-10-09 15:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2026-10-09 15:58+0000\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: includes/bookings.php:95
+#: includes/shortcode.php:78
+msgid "%1$s at %2$s"
+msgstr "%1$s um %2$s"
+
+#: includes/shortcode.php:89
+msgid "%1$s – %2$s. We have sent a confirmation to %3$s."
+msgstr "%1$s – %2$s. Die Bestätigung haben wir an %3$s gesendet."
+
+#: includes/shortcode.php:91
+msgid "%1$s – %2$s. We will confirm the appointment by e-mail at %3$s."
+msgstr "%1$s – %2$s. Wir bestätigen den Termin per E-Mail an %3$s."
+
+#: includes/shortcode.php:52
+msgid "%d free slot"
+msgid_plural "%d free slots"
+msgstr[0] "%d freier Termin"
+msgstr[1] "%d freie Termine"
+
+#: includes/shortcode.php:66
+msgid "%s – fully booked."
+msgstr "%s – ausgebucht."
+
+#: includes/bookings.php:30
+msgid "Add booking"
+msgstr "Buchung hinzufügen"
+
+#: includes/settings.php:188
+msgid "Add the booking form to any page with the %s shortcode. The MedCentrum theme also shows it on the home page."
+msgstr "Das Buchungsformular fügen Sie mit dem Shortcode %s in jede Seite ein. Das MedCentrum-Theme zeigt es auch auf der Startseite."
+
+#: includes/shortcode.php:69
+msgid "Afternoon"
+msgstr "Nachmittag"
+
+#: includes/bookings.php:188
+msgid "All"
+msgstr "Alle"
+
+#: includes/bookings.php:191
+msgid "All statuses"
+msgstr "Alle Status"
+
+#: includes/bookings.php:107
+#: includes/emails.php:27
+#: includes/emails.php:101
+#: includes/shortcode.php:80
+msgid "Appointment"
+msgstr "Termin"
+
+#: includes/settings.php:249
+msgid "Appointment length"
+msgstr "Termindauer"
+
+#: includes/bookings.php:13
+msgid "Awaiting confirmation"
+msgstr "Wartet auf Bestätigung"
+
+#: includes/settings.php:258
+msgid "Book ahead"
+msgstr "Im Voraus buchbar"
+
+#: includes/i18n.php:119
+#: medcentrum-booking.php:98
+msgid "Book an appointment"
+msgstr "Termin buchen"
+
+#: includes/shortcode.php:255
+msgid "Book another appointment"
+msgstr "Weiteren Termin buchen"
+
+#: includes/shortcode.php:246
+msgid "Book appointment"
+msgstr "Verbindlich buchen"
+
+#: includes/shortcode.php:121
+msgid "Book online"
+msgstr "Termin online buchen"
+
+#: includes/bookings.php:334
+msgid "Booked online"
+msgstr "Online gebucht"
+
+#: includes/bookings.php:27
+#: includes/bookings.php:32
+msgid "Booking"
+msgstr "Buchung"
+
+msgid "Booking calendar where patients pick a specific day and time. Add the form to any page with the [medcentrum_rezervacia] shortcode. Multilingual (DE / EN / SK), works with Polylang."
+msgstr "Buchungskalender, in dem Patienten einen bestimmten Tag und eine Uhrzeit wählen. Das Formular fügen Sie mit dem Shortcode [medcentrum_rezervacia] in jede Seite ein. Mehrsprachig (DE / EN / SK), kompatibel mit Polylang."
+
+#: includes/bookings.php:268
+msgid "Booking details"
+msgstr "Buchungsdetails"
+
+#: includes/emails.php:51
+msgid "Booking details:"
+msgstr "Buchungsdetails:"
+
+#: includes/settings.php:122
+#: includes/settings.php:183
+msgid "Booking settings"
+msgstr "Buchungseinstellungen"
+
+#: includes/bookings.php:26
+#: includes/bookings.php:28
+#: includes/bookings.php:29
+msgid "Bookings"
+msgstr "Buchungen"
+
+#: includes/bookings.php:15
+msgid "Cancelled"
+msgstr "Storniert"
+
+#: includes/shortcode.php:132
+#: includes/shortcode.php:152
+#: includes/shortcode.php:180
+msgid "Change"
+msgstr "Ändern"
+
+#: includes/shortcode.php:208
+msgid "Choose…"
+msgstr "Bitte wählen…"
+
+#: includes/settings.php:195
+msgid "Clinic"
+msgstr "Praxis"
+
+#: includes/settings.php:266
+msgid "Closed days"
+msgstr "Schließtage"
+
+#: includes/settings.php:272
+msgid "Confirm online bookings automatically"
+msgstr "Online-Buchungen automatisch bestätigen"
+
+#: includes/settings.php:271
+#: includes/shortcode.php:241
+msgid "Confirmation"
+msgstr "Bestätigung"
+
+#: includes/bookings.php:14
+msgid "Confirmed"
+msgstr "Bestätigt"
+
+#: includes/shortcode.php:84
+msgid "Connection failed. Check your internet connection and try again."
+msgstr "Verbindung fehlgeschlagen. Prüfen Sie Ihre Internetverbindung und versuchen Sie es erneut."
+
+#: includes/bookings.php:110
+#: includes/shortcode.php:82
+msgid "Contact"
+msgstr "Kontakt"
+
+#: includes/shortcode.php:234
+msgid "Continue"
+msgstr "Weiter"
+
+#: includes/bookings.php:305
+msgid "Date"
+msgstr "Datum"
+
+#: includes/shortcode.php:150
+msgid "Date and time"
+msgstr "Datum und Uhrzeit"
+
+#: includes/bookings.php:319
+#: includes/emails.php:34
+#: includes/shortcode.php:201
+msgid "Date of birth"
+msgstr "Geburtsdatum"
+
+#: includes/settings.php:224
+msgid "Day"
+msgstr "Tag"
+
+#: includes/bookings.php:317
+#: includes/emails.php:31
+#: includes/shortcode.php:193
+msgid "E-mail"
+msgstr "E-Mail"
+
+#: includes/settings.php:202
+msgid "E-mail for new bookings"
+msgstr "E-Mail für neue Buchungen"
+
+#: includes/bookings.php:329
+msgid "E-mail the patient about the new status or time"
+msgstr "Patienten per E-Mail über den neuen Status oder Termin informieren"
+
+#: includes/settings.php:262
+msgid "Earliest"
+msgstr "Frühestens in"
+
+#: includes/bookings.php:334
+msgid "Entered manually"
+msgstr "Manuell erfasst"
+
+#: includes/bookings.php:315
+#: includes/shortcode.php:185
+msgid "First name"
+msgstr "Vorname"
+
+#: includes/settings.php:224
+#: includes/settings.php:242
+msgid "From"
+msgstr "Von"
+
+#: includes/bookings.php:321
+#: includes/emails.php:37
+#: includes/shortcode.php:83
+#: includes/shortcode.php:206
+msgid "Health insurer"
+msgstr "Krankenkasse"
+
+#: includes/settings.php:216
+msgid "Health insurers"
+msgstr "Krankenkassen"
+
+#: includes/emails.php:97
+msgid "Hello,"
+msgstr "Guten Tag,"
+
+#: includes/shortcode.php:226
+msgid "I agree to the processing of my personal data for booking and providing medical care."
+msgstr "Ich willige in die Verarbeitung meiner personenbezogenen Daten zur Terminbuchung und medizinischen Versorgung ein."
+
+#: includes/emails.php:110
+msgid "If you need to change or cancel the appointment, call us at %s."
+msgstr "Wenn Sie den Termin ändern oder absagen möchten, rufen Sie uns unter %s an."
+
+#: includes/emails.php:111
+msgid "If you need to change or cancel the appointment, reply to this e-mail."
+msgstr "Wenn Sie den Termin ändern oder absagen möchten, antworten Sie einfach auf diese E-Mail."
+
+#: includes/settings.php:255
+msgid "Increase if several doctors see patients at the same time."
+msgstr "Erhöhen, wenn mehrere Ärztinnen oder Ärzte gleichzeitig behandeln."
+
+#: includes/emails.php:113
+msgid "Kind regards"
+msgstr "Freundliche Grüße"
+
+#: includes/emails.php:39
+msgid "Language"
+msgstr "Sprache"
+
+#: includes/bookings.php:316
+#: includes/shortcode.php:189
+msgid "Last name"
+msgstr "Nachname"
+
+#: includes/settings.php:245
+msgid "Leave empty if no break should be left out of the calendar."
+msgstr "Leer lassen, wenn keine Pause aus dem Kalender ausgenommen werden soll."
+
+#: includes/shortcode.php:59
+msgid "Loading available times…"
+msgstr "Freie Zeiten werden geladen…"
+
+#: includes/settings.php:240
+msgid "Lunch break"
+msgstr "Mittagspause"
+
+msgid "MedCentrum – Online Booking"
+msgstr "MedCentrum – Online-Terminbuchung"
+
+#: includes/shortcode.php:68
+msgid "Morning"
+msgstr "Vormittag"
+
+#: includes/settings.php:198
+msgid "Name"
+msgstr "Name"
+
+#: includes/bookings.php:31
+msgid "New booking"
+msgstr "Neue Buchung"
+
+#: includes/emails.php:59
+msgid "New booking: %1$s – %2$s"
+msgstr "Neue Buchung: %1$s – %2$s"
+
+#: includes/emails.php:41
+msgid "New online booking"
+msgstr "Neue Online-Buchung"
+
+#: includes/shortcode.php:161
+msgid "Next month"
+msgstr "Nächster Monat"
+
+#: includes/bookings.php:34
+msgid "No bookings"
+msgstr "Keine Buchungen"
+
+#: includes/bookings.php:325
+#: includes/emails.php:47
+msgid "Note from the patient"
+msgstr "Anmerkung des Patienten"
+
+#: includes/settings.php:268
+msgid "One date (YYYY-MM-DD) or range per line – public holidays, vacations. Text after the date is a note."
+msgstr "Ein Datum (JJJJ-MM-TT) oder ein Zeitraum pro Zeile – Feiertage, Urlaub. Text nach dem Datum dient als Notiz."
+
+#: includes/settings.php:218
+msgid "One per line. Leave empty to hide the field from the form."
+msgstr "Eine pro Zeile. Leer lassen, um das Feld im Formular auszublenden."
+
+#: includes/settings.php:213
+msgid "One service per line. Patients choose it in the first step."
+msgstr "Eine Leistung pro Zeile. Patienten wählen sie im ersten Schritt."
+
+#: includes/settings.php:224
+msgid "Open"
+msgstr "Geöffnet"
+
+#: includes/settings.php:222
+msgid "Opening hours"
+msgstr "Öffnungszeiten"
+
+#: includes/bookings.php:187
+msgid "Past"
+msgstr "Vergangen"
+
+#: includes/bookings.php:108
+#: includes/emails.php:29
+#: includes/shortcode.php:81
+msgid "Patient"
+msgstr "Patient"
+
+#: includes/settings.php:253
+msgid "Patients per slot"
+msgstr "Patienten pro Termin"
+
+#: includes/bookings.php:184
+msgid "Period"
+msgstr "Zeitraum"
+
+#: includes/bookings.php:318
+#: includes/emails.php:30
+#: includes/settings.php:206
+#: includes/shortcode.php:197
+msgid "Phone"
+msgstr "Telefon"
+
+#: includes/emails.php:106
+msgid "Please arrive 10 minutes early and bring your health insurance card."
+msgstr "Bitte kommen Sie 10 Minuten vor dem Termin und bringen Sie Ihre Versichertenkarte mit."
+
+#: includes/rest.php:147
+msgid "Please check the highlighted fields."
+msgstr "Bitte prüfen Sie die markierten Felder."
+
+#: includes/rest.php:190
+msgid "Please choose a date and time."
+msgstr "Bitte wählen Sie Datum und Uhrzeit."
+
+#: includes/rest.php:189
+#: includes/shortcode.php:136
+msgid "Please choose a service."
+msgstr "Bitte wählen Sie eine Leistung."
+
+#: includes/rest.php:196
+msgid "Please choose your health insurer."
+msgstr "Bitte wählen Sie Ihre Krankenkasse."
+
+#: includes/rest.php:195
+msgid "Please enter a valid date of birth."
+msgstr "Bitte geben Sie ein gültiges Geburtsdatum ein."
+
+#: includes/rest.php:193
+msgid "Please enter a valid e-mail address."
+msgstr "Bitte geben Sie eine gültige E-Mail-Adresse ein."
+
+#: includes/rest.php:194
+msgid "Please enter a valid phone number."
+msgstr "Bitte geben Sie eine gültige Telefonnummer ein."
+
+#: includes/rest.php:191
+msgid "Please enter your first name."
+msgstr "Bitte geben Sie Ihren Vornamen ein."
+
+#: includes/rest.php:192
+msgid "Please enter your last name."
+msgstr "Bitte geben Sie Ihren Nachnamen ein."
+
+#: includes/shortcode.php:159
+msgid "Previous month"
+msgstr "Vorheriger Monat"
+
+#: includes/shortcode.php:228
+msgid "Privacy policy"
+msgstr "Datenschutzerklärung"
+
+#: includes/shortcode.php:216
+msgid "Reason for the visit / note"
+msgstr "Grund des Besuchs / Anmerkung"
+
+#: includes/settings.php:277
+msgid "Save settings"
+msgstr "Einstellungen speichern"
+
+#: includes/bookings.php:33
+msgid "Search"
+msgstr "Suchen"
+
+#: includes/shortcode.php:57
+#: includes/shortcode.php:168
+msgid "Select a day in the calendar."
+msgstr "Wählen Sie einen Tag im Kalender."
+
+#: includes/bookings.php:109
+#: includes/bookings.php:302
+#: includes/emails.php:28
+#: includes/emails.php:102
+#: includes/shortcode.php:79
+#: includes/shortcode.php:130
+msgid "Service"
+msgstr "Leistung"
+
+#: includes/settings.php:211
+msgid "Services"
+msgstr "Leistungen"
+
+#: includes/settings.php:123
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: includes/settings.php:208
+msgid "Shown to patients who cannot find a suitable slot."
+msgstr "Wird Patienten angezeigt, die keinen passenden Termin finden."
+
+#: includes/rest.php:157
+msgid "Someone else is booking this slot right now. Please try again in a moment."
+msgstr "Dieser Termin wird gerade von jemand anderem gebucht. Bitte versuchen Sie es gleich noch einmal."
+
+#: includes/bookings.php:111
+#: includes/bookings.php:190
+#: includes/bookings.php:308
+msgid "Status"
+msgstr "Status"
+
+#: includes/shortcode.php:87
+msgid "Thank you, we have received your request"
+msgstr "Vielen Dank, wir haben Ihre Anfrage erhalten"
+
+#: includes/shortcode.php:86
+msgid "Thank you, your appointment is booked"
+msgstr "Vielen Dank, Ihr Termin ist gebucht"
+
+#: includes/shortcode.php:85
+msgid "The booking could not be completed."
+msgstr "Die Buchung konnte nicht abgeschlossen werden."
+
+#: includes/rest.php:172
+msgid "The booking could not be saved. Please call us."
+msgstr "Die Buchung konnte nicht gespeichert werden. Bitte rufen Sie uns an."
+
+#: includes/emails.php:51
+msgid "The booking is waiting for your confirmation:"
+msgstr "Die Buchung wartet auf Ihre Bestätigung:"
+
+#: includes/shortcode.php:63
+msgid "The calendar could not be loaded. Please refresh the page or call us at %s."
+msgstr "Der Kalender konnte nicht geladen werden. Bitte laden Sie die Seite neu oder rufen Sie uns unter %s an."
+
+#: includes/shortcode.php:64
+msgid "The calendar could not be loaded. Please refresh the page."
+msgstr "Der Kalender konnte nicht geladen werden. Bitte laden Sie die Seite neu."
+
+#: includes/rest.php:93
+msgid "The request could not be processed."
+msgstr "Die Anfrage konnte nicht verarbeitet werden."
+
+#: includes/shortcode.php:60
+msgid "The times could not be loaded. Please try again."
+msgstr "Die Zeiten konnten nicht geladen werden. Bitte versuchen Sie es erneut."
+
+#: includes/bookings.php:35
+msgid "The trash is empty"
+msgstr "Der Papierkorb ist leer"
+
+#: includes/shortcode.php:58
+msgid "There are no free slots left this month."
+msgstr "In diesem Monat sind keine Termine mehr frei."
+
+#: includes/rest.php:161
+msgid "This slot is no longer available. Please choose another time."
+msgstr "Dieser Termin ist nicht mehr frei. Bitte wählen Sie eine andere Uhrzeit."
+
+#: includes/bookings.php:306
+msgid "Time"
+msgstr "Uhrzeit"
+
+#: includes/settings.php:224
+#: includes/settings.php:244
+msgid "To"
+msgstr "Bis"
+
+#: includes/bookings.php:186
+msgid "Today"
+msgstr "Heute"
+
+#: includes/rest.php:98
+msgid "Too many bookings were made from this device. Please try again later or call us."
+msgstr "Von diesem Gerät wurden zu viele Buchungen vorgenommen. Bitte versuchen Sie es später erneut oder rufen Sie uns an."
+
+#: includes/settings.php:180
+msgid "Translations go on the same line: de: Physiotherapie | en: Physiotherapy | sk: Fyzioterapia. The first text is stored with each booking – do not change it once bookings exist."
+msgstr "Übersetzungen kommen in dieselbe Zeile: de: Physiotherapie | en: Physiotherapy | sk: Fyzioterapia. Der erste Text wird mit jeder Buchung gespeichert – ändern Sie ihn nicht mehr, sobald Buchungen existieren."
+
+#: includes/bookings.php:185
+msgid "Upcoming"
+msgstr "Bevorstehend"
+
+#: includes/emails.php:83
+msgid "We confirm your appointment:"
+msgstr "Wir bestätigen Ihren Termin:"
+
+#: includes/emails.php:93
+msgid "We have received your appointment request. We will send you another e-mail once it is confirmed."
+msgstr "Wir haben Ihre Terminanfrage erhalten. Sobald der Termin bestätigt ist, erhalten Sie eine weitere E-Mail."
+
+#: includes/emails.php:92
+msgid "We have received your request – %s"
+msgstr "Wir haben Ihre Anfrage erhalten – %s"
+
+#: includes/rest.php:197
+msgid "We need your consent to process your data to book the appointment."
+msgstr "Für die Terminbuchung benötigen wir Ihre Einwilligung zur Datenverarbeitung."
+
+#: includes/settings.php:273
+msgid "When off, bookings wait for your confirmation. The patient first gets an e-mail that the request was received, then another one once you confirm."
+msgstr "Wenn deaktiviert, warten Buchungen auf Ihre Bestätigung. Der Patient erhält zuerst eine E-Mail über den Eingang der Anfrage und nach Ihrer Bestätigung eine weitere."
+
+#: includes/emails.php:87
+msgid "Your appointment has been cancelled – %s"
+msgstr "Ihr Termin wurde storniert – %s"
+
+#: includes/emails.php:88
+msgid "Your appointment has been cancelled:"
+msgstr "Ihr Termin wurde storniert:"
+
+#: includes/emails.php:82
+msgid "Your appointment is confirmed – %s"
+msgstr "Ihr Termin ist bestätigt – %s"
+
+#: includes/shortcode.php:258
+msgid "Your data is sent encrypted and only the clinic staff can see it."
+msgstr "Ihre Daten werden verschlüsselt übertragen und sind nur für das Praxisteam sichtbar."
+
+#: includes/shortcode.php:178
+msgid "Your details"
+msgstr "Ihre Angaben"
+
+#: includes/settings.php:259
+msgid "days"
+msgstr "Tage"
+
+#: includes/shortcode.php:165
+msgid "free slots"
+msgstr "freie Termine"
+
+#: includes/settings.php:263
+msgid "hours from now"
+msgstr "Stunden"
+
+#: includes/bookings.php:93
+msgid "l, F j, Y"
+msgstr "l, j. F Y"
+
+#: includes/settings.php:250
+msgid "minutes"
+msgstr "Minuten"
+
+#: includes/shortcode.php:67
+msgid "no free slots"
+msgstr "keine freien Termine"

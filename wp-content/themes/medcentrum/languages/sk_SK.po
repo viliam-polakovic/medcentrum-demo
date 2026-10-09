@@ -1,0 +1,434 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MedCentrum theme\n"
+"POT-Creation-Date: 2026-10-09 15:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2026-10-09 15:58+0000\n"
+"Language: sk_SK\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: template-parts/home/intro.php:6
+msgid "A medical centre in the heart of Bratislava"
+msgstr "Zdravotné centrum v srdci Bratislavy"
+
+#: functions.php:118
+msgid "About us"
+msgstr "O nás"
+
+#: template-parts/home/news.php:25
+msgid "All news"
+msgstr "Všetky aktuality"
+
+#: template-parts/home/locations.php:7
+msgid "Always close by."
+msgstr "Vždy nablízku."
+
+#: inc/content.php:35
+msgid "Back and joint pain, sports injuries. Diagnosis and conservative treatment."
+msgstr "Bolesti chrbta, kĺbov a športové úrazy. Diagnostika a konzervatívna liečba."
+
+#: 404.php:13
+msgid "Back to home page"
+msgstr "Späť na úvod"
+
+#: footer.php:15
+msgid "Back to top"
+msgstr "Späť hore"
+
+#: inc/content.php:59
+msgid "Blood tests without waiting, most results on the same day."
+msgstr "Odbery krvi bez čakania, výsledky väčšiny vyšetrení ešte v ten istý deň."
+
+#: template-parts/home/services.php:27
+msgid "Book an appointment"
+msgstr "Objednať termín"
+
+#: header.php:51
+#: template-parts/home/cta.php:22
+#: template-parts/home/services.php:10
+msgid "Book appointment"
+msgstr "Objednať sa"
+
+#: header.php:98
+#: template-parts/home/hero.php:9
+msgid "Book online"
+msgstr "Objednať sa online"
+
+#: template-parts/home/booking.php:9
+msgid "Book your appointment for a specific day and time"
+msgstr "Objednajte sa na konkrétny deň a čas"
+
+#: inc/content.php:28
+#: inc/content.php:76
+msgid "Cardiology"
+msgstr "Kardiológia"
+
+#: template-parts/home/services.php:12
+msgid "Cards"
+msgstr "Karty"
+
+#: template-parts/home/booking.php:12
+msgid "Choose a service"
+msgstr "Vyberte službu"
+
+#: template-parts/home/booking.php:10
+msgid "Choose a service, a free slot in the calendar and fill in your contact details. You will receive a confirmation by e-mail."
+msgstr "Vyberte si službu, voľný termín v kalendári a vyplňte kontaktné údaje. Potvrdenie dostanete e-mailom."
+
+#: header.php:71
+msgid "Close menu"
+msgstr "Zavrieť menu"
+
+#: inc/content.php:17
+msgid "Comprehensive care for adult patients, from acute complaints to long-term follow-up."
+msgstr "Komplexná starostlivosť o dospelých pacientov, akútne ťažkosti aj dlhodobé sledovanie."
+
+#: inc/content.php:83
+msgid "Comprehensive care for adults and preventive check-ups."
+msgstr "Komplexná starostlivosť o dospelých a preventívne prehliadky."
+
+#: template-parts/home/booking.php:15
+msgid "Confirmation by e-mail"
+msgstr "Potvrdenie e-mailom"
+
+#: footer.php:19
+#: functions.php:120
+msgid "Contact"
+msgstr "Kontakt"
+
+#: inc/content.php:46
+msgid "Diagnostics and ultrasound"
+msgstr "Diagnostika a USG"
+
+#: functions.php:117
+msgid "Doctors"
+msgstr "Lekári"
+
+#: inc/content.php:29
+msgid "ECG, echocardiography and Holter monitoring. Prevention and treatment of heart and vascular disease."
+msgstr "EKG, echokardiografia a Holter. Prevencia a liečba ochorení srdca a ciev."
+
+#: inc/content.php:77
+msgid "Echocardiography, hypertension and prevention of heart disease."
+msgstr "Echokardiografia, hypertenzia a prevencia srdcových ochorení."
+
+#: 404.php:7
+msgid "Error 404"
+msgstr "Chyba 404"
+
+#: inc/content.php:159
+msgid "Examination at the clinic"
+msgstr "Vyšetrenie v ambulancii"
+
+#: template-parts/home/team.php:7
+msgid "Experienced specialists,<br>exceptional care."
+msgstr "Skúsení špecialisti,<br>výnimočná starostlivosť."
+
+#: functions.php:152
+msgid "F j, Y"
+msgstr "j. F Y"
+
+#: footer.php:53
+msgid "FAQ"
+msgstr "Časté otázky"
+
+#: template-parts/home/booking.php:14
+msgid "Fill in your details"
+msgstr "Vyplňte údaje"
+
+#: template-parts/home/locations.php:8
+msgid "Find the clinic closest to you. You can book at every location online or by phone."
+msgstr "Nájdite ambulanciu, ktorá je vám najbližšie. Na každé pracovisko sa môžete objednať online aj telefonicky."
+
+#: functions.php:35
+msgid "Footer – important links"
+msgstr "Pätička – dôležité odkazy"
+
+#: footer.php:50
+#: header.php:54
+#: template-parts/home/cta.php:10
+msgid "For doctors"
+msgstr "Pre lekárov"
+
+#: template-parts/home/cta.php:18
+msgid "For patients"
+msgstr "Pre pacientov"
+
+#: inc/content.php:16
+#: inc/content.php:82
+msgid "General practice"
+msgstr "Všeobecná ambulancia"
+
+#: inc/content.php:71
+msgid "Head of department, 18 years of experience. Headaches and sleep disorders."
+msgstr "Primárka, 18 rokov praxe. Bolesti hlavy a poruchy spánku."
+
+#: inc/content.php:23
+msgid "Headaches, dizziness, sleep or memory problems. EEG and EMG on site."
+msgstr "Bolesti hlavy, závraty, poruchy spánku či pamäti. Vyšetrenie EEG a EMG na mieste."
+
+#: template-parts/home/cta.php:13
+msgid "I am a doctor and want<br>to refer a patient."
+msgstr "Som lekár a chcem<br>odoslať pacienta."
+
+#: template-parts/home/cta.php:21
+msgid "I am a patient and want<br>to book an appointment."
+msgstr "Som pacient a chcem<br>sa objednať."
+
+#: footer.php:32
+msgid "Important links"
+msgstr "Dôležité odkazy"
+
+#: inc/content.php:167
+msgid "In-house laboratory"
+msgstr "Vlastné laboratórium"
+
+#: inc/content.php:41
+msgid "Individual exercise, manual techniques and rehabilitation after injuries and surgery."
+msgstr "Individuálne cvičenia, manuálne techniky a rehabilitácia po úrazoch a operáciách."
+
+#: inc/languages.php:65
+msgid "Install Polylang"
+msgstr "Nainštalovať Polylang"
+
+#: inc/content.php:58
+msgid "Laboratory"
+msgstr "Laboratórium"
+
+#: inc/languages.php:47
+msgid "Language"
+msgstr "Jazyk"
+
+#: footer.php:75
+msgid "Legal notice"
+msgstr "Právne informácie"
+
+#: template-parts/home/services.php:13
+msgid "List"
+msgstr "Zoznam"
+
+#: functions.php:34
+#: header.php:36
+msgid "Main menu"
+msgstr "Hlavné menu"
+
+#: template-parts/home/locations.php:28
+msgid "Map of %s locations"
+msgstr "Mapa pracovísk %s"
+
+#: template-parts/home/intro.php:7
+msgid "MedCentrum is a modern medical facility that brings general practice, specialists, diagnostics and a laboratory together under one roof. Book your examination online for a specific day and time – no phone calls and no time in the waiting room."
+msgstr "MedCentrum je moderné zdravotnícke zariadenie, ktoré pod jednou strechou spája všeobecnú ambulanciu, odborných lekárov, diagnostiku aj laboratórium. Na vyšetrenie sa objednáte online na konkrétny deň a čas – bez telefonovania a bez čakania v čakárni."
+
+#: header.php:66
+#: header.php:74
+msgid "Menu"
+msgstr "Menu"
+
+#: inc/content.php:163
+msgid "Modern diagnostics"
+msgstr "Moderná diagnostika"
+
+#: template-parts/home/hero.php:7
+msgid "Modern medicine<br>with a human touch"
+msgstr "Moderná medicína<br>s ľudským prístupom"
+
+msgid "Modern theme for a clinic or medical centre: home page with services, doctors, locations and online booking (requires the “MedCentrum – Online Booking” plugin). Multilingual DE / EN / SK with Polylang."
+msgstr "Moderná téma pre ambulanciu alebo zdravotnícke centrum: úvodná stránka so službami, lekármi, pracoviskami a online objednávaním (vyžaduje plugin „MedCentrum – Online Booking“). Viacjazyčná DE / EN / SK cez Polylang."
+
+#: inc/content.php:47
+msgid "Modern ultrasound equipment and fast results during your visit."
+msgstr "Moderné ultrazvukové prístroje a rýchle vyhodnotenie výsledkov priamo pri návšteve."
+
+#: inc/content.php:107
+msgid "Mon – Fri 7:00 – 18:00"
+msgstr "Po – Pi 7:00 – 18:00"
+
+#: inc/content.php:101
+msgid "Mon – Fri 7:30 – 16:00"
+msgstr "Po – Pi 7:30 – 16:00"
+
+#: inc/content.php:113
+msgid "Mon – Thu 8:00 – 15:00"
+msgstr "Po – Št 8:00 – 15:00"
+
+#: template-parts/home/intro.php:8
+msgid "More about our locations"
+msgstr "Viac o našich pracoviskách"
+
+#: inc/content.php:22
+#: inc/content.php:70
+msgid "Neurology"
+msgstr "Neurológia"
+
+#: functions.php:119
+#: index.php:35
+#: template-parts/home/news.php:21
+msgid "News"
+msgstr "Aktuality"
+
+#: template-parts/home/news.php:22
+msgid "News and events"
+msgstr "Novinky a podujatia"
+
+#: template-parts/home/services.php:35
+msgid "Next"
+msgstr "Ďalšie"
+
+#: index.php:58
+msgid "Nothing here yet."
+msgstr "Zatiaľ tu nič nie je."
+
+#: footer.php:48
+#: template-parts/home/booking.php:8
+msgid "Online booking"
+msgstr "Online objednávanie"
+
+#: inc/content.php:155
+msgid "Online booking for a specific appointment"
+msgstr "Online objednávanie na konkrétny termín"
+
+#: header.php:58
+msgid "Open menu"
+msgstr "Otvoriť menu"
+
+#: footer.php:49
+msgid "Opening hours"
+msgstr "Ordinačné hodiny"
+
+#: inc/content.php:34
+#: inc/content.php:88
+msgid "Orthopaedics"
+msgstr "Ortopédia"
+
+#: template-parts/home/services.php:7
+msgid "Our clinics rely on modern diagnostics, individual treatment and a personal approach. We work closely with specialists so you do not have to go from door to door."
+msgstr "V našich ambulanciách sa spoliehame na modernú diagnostiku, individuálnu liečbu a osobný prístup. Úzko spolupracujeme so špecialistami, aby ste nemuseli chodiť od dverí k dverám."
+
+#: template-parts/home/team.php:8
+msgid "Our examinations are carried out by doctors with many years of experience at leading hospitals. From your GP to the neurologist and the physiotherapist, you are in the best hands."
+msgstr "Vyšetrenia u nás vykonávajú lekári s dlhoročnou praxou z popredných nemocníc. Od všeobecného lekára cez neurológa až po fyzioterapeuta ste v najlepších rukách."
+
+#: template-parts/home/locations.php:6
+msgid "Our locations"
+msgstr "Naše pracoviská"
+
+#: template-parts/home/services.php:6
+msgid "Our offer"
+msgstr "Naša ponuka"
+
+#: template-parts/home/hero.php:10
+msgid "Our services"
+msgstr "Naše služby"
+
+#: 404.php:8
+msgid "Page not found"
+msgstr "Stránku sme nenašli"
+
+#: footer.php:52
+msgid "Partner insurers"
+msgstr "Zmluvné poisťovne"
+
+#: template-parts/home/cta.php:4
+msgid "Patient referral"
+msgstr "Odporúčanie pacienta"
+
+#: template-parts/home/gallery.php:2
+msgid "Photo gallery"
+msgstr "Fotogaléria"
+
+#: inc/content.php:40
+msgid "Physiotherapy"
+msgstr "Fyzioterapia"
+
+#: template-parts/home/booking.php:13
+msgid "Pick a day and time"
+msgstr "Zvoľte deň a čas"
+
+#: template-parts/home/booking.php:18
+msgid "Prefer to call?"
+msgstr "Radšej telefonicky?"
+
+#: inc/content.php:52
+msgid "Preventive check-ups"
+msgstr "Preventívne prehliadky"
+
+#: template-parts/home/services.php:34
+msgid "Previous"
+msgstr "Predchádzajúce"
+
+#: footer.php:51
+msgid "Price list"
+msgstr "Cenník výkonov"
+
+#: footer.php:77
+msgid "Privacy policy"
+msgstr "Ochrana osobných údajov"
+
+#: template-parts/home/cta.php:14
+msgid "Refer a patient"
+msgstr "Odoslať pacienta"
+
+#: inc/content.php:53
+msgid "Regular check-ups covered by insurance and extended packages for companies."
+msgstr "Pravidelné prehliadky hradené poisťovňou aj rozšírené balíky pre firmy."
+
+#: footer.php:58
+#: functions.php:116
+#: header.php:87
+msgid "Services"
+msgstr "Služby"
+
+#: header.php:20
+msgid "Skip to content"
+msgstr "Preskočiť na obsah"
+
+#: inc/content.php:89
+msgid "Spine, large joints and sports medicine."
+msgstr "Chrbtica, veľké kĺby a športová medicína."
+
+#: template-parts/home/booking.php:29
+msgid "The booking calendar appears once the %s plugin is activated."
+msgstr "Rezervačný kalendár sa zobrazí po aktivovaní pluginu %s."
+
+#: inc/languages.php:63
+msgid "The language switcher (DE / EN / SK) needs the free Polylang plugin."
+msgstr "Prepínanie jazykov (DE / EN / SK) vyžaduje bezplatný plugin Polylang."
+
+#: 404.php:12
+msgid "The link is probably broken or the page has moved."
+msgstr "Odkaz je pravdepodobne neplatný alebo stránka bola presunutá."
+
+#: footer.php:46
+msgid "Useful information"
+msgstr "Užitočné informácie"
+
+#: template-parts/home/services.php:11
+msgid "View"
+msgstr "Zobrazenie"
+
+#: template-parts/home/hero.php:6
+msgid "What we offer"
+msgstr "Naša ponuka"
+
+#: template-parts/home/intro.php:5
+msgid "Your health in the best hands"
+msgstr "Vaše zdravie v najlepších rukách"
+
+#: inc/content.php:134
+msgid "experienced doctors and specialists"
+msgstr "skúsených lekárov a špecialistov"
+
+#: inc/content.php:140
+msgid "locations in Bratislava"
+msgstr "pracoviská v Bratislave"
+
+#: inc/content.php:146
+msgid "specialist clinics"
+msgstr "odborných ambulancií"
+
+#: footer.php:71
+msgid "© %1$s %2$s – All rights reserved."
+msgstr "© %1$s %2$s – Všetky práva vyhradené."

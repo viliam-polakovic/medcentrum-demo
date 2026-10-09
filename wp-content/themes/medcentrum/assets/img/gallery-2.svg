@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" width="900" height="620" preserveAspectRatio="xMidYMid slice"><defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#DCE8F5"/><stop offset="1" stop-color="#EEF4FB"/></linearGradient>
+<filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="74"/></filter>
+<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.8" fill="rgba(15,58,54,.16)"/></pattern>
+<linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".75"/><stop offset="1" stop-color="#fff" stop-opacity=".35"/></linearGradient>
+<linearGradient id="glassDark" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".22"/><stop offset="1" stop-color="#fff" stop-opacity=".06"/></linearGradient></defs>
+<rect width="900" height="620" fill="url(#bg)"/>
+<g filter="url(#blur)"><circle cx="90" cy="388" r="270" fill="#B7CFEA" opacity="0.55"/><circle cx="301" cy="391" r="185" fill="#9FCFBF" opacity="0.80"/><circle cx="259" cy="258" r="223" fill="#fff" opacity="0.55"/></g>
+<rect x="495" y="0" width="405" height="279" fill="url(#dots)"/>
+<rect x="0" y="384" width="288" height="236" fill="url(#dots)"/>
+<circle cx="180" cy="349" r="306" fill="none" stroke="#2C5E9E" stroke-opacity=".12" stroke-width="2"/>
+<circle cx="180" cy="349" r="225" fill="none" stroke="#2C5E9E" stroke-opacity=".08" stroke-width="2"/>
+<rect x="307" y="175" width="322" height="322" rx="52" fill="#0F3A36" opacity="0.08" filter="url(#blur)"/>
+<rect x="289" y="149" width="322" height="322" rx="52" fill="url(#glass)" stroke="#fff" stroke-opacity="0.9" stroke-width="2"/>
+<g transform="translate(327.64 187.64) scale(1.2236)" fill="none" stroke="#0F3A36" color="#0F3A36" stroke-width="7.845701209545604" stroke-linecap="round" stroke-linejoin="round">
+<path d="M62 34v46a38 38 0 0 0 76 0V34"/>
+<path d="M52 34h20M128 34h20"/>
+<path d="M100 118v18a30 30 0 0 0 60 0v-22"/>
+<circle cx="160" cy="100" r="14"/></g>
+<path d="M98 112h20M108 102v20" stroke="#2C5E9E" stroke-width="3" stroke-linecap="round" opacity="0.5"/>
+<path d="M784 484h16M792 476v16" stroke="#2E7D74" stroke-width="3" stroke-linecap="round" opacity="0.5"/>
+<path d="M714 99h12M720 93v12" stroke="#2C5E9E" stroke-width="3" stroke-linecap="round" opacity="0.35"/></svg>

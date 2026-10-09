@@ -1,0 +1,27 @@
+{
+	"$schema": "https://playground.wordpress.net/blueprint-schema.json",
+	"landingPage": "/",
+	"login": true,
+	"steps": [
+		{ "step": "setSiteLanguage", "language": "sk_SK" },
+		{ "step": "setSiteLanguage", "language": "de_DE" },
+		{
+			"step": "setSiteOptions",
+			"options": {
+				"blogname": "MedCentrum",
+				"blogdescription": "Gesundheit & Vorsorge",
+				"timezone_string": "Europe/Bratislava",
+				"start_of_week": 1,
+				"permalink_structure": "/%postname%/"
+			}
+		},
+		{
+			"step": "installPlugin",
+			"pluginData": { "resource": "wordpress.org/plugins", "slug": "polylang" },
+			"options": { "activate": true }
+		},
+		{ "step": "activatePlugin", "pluginPath": "/wordpress/wp-content/plugins/medcentrum-booking/medcentrum-booking.php" },
+		{ "step": "activateTheme", "themeFolderName": "medcentrum" },
+		{ "step": "runPHP", "code": "<?php require '/playground/demo-content.php';" }
+	]
+}

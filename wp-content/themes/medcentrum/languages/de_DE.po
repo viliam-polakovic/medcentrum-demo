@@ -1,0 +1,434 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MedCentrum theme\n"
+"POT-Creation-Date: 2026-10-09 15:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2026-10-09 15:58+0000\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: template-parts/home/intro.php:6
+msgid "A medical centre in the heart of Bratislava"
+msgstr "Ein Gesundheitszentrum im Herzen von Bratislava"
+
+#: functions.php:118
+msgid "About us"
+msgstr "Über uns"
+
+#: template-parts/home/news.php:25
+msgid "All news"
+msgstr "Alle Beiträge"
+
+#: template-parts/home/locations.php:7
+msgid "Always close by."
+msgstr "Immer in Ihrer Nähe."
+
+#: inc/content.php:35
+msgid "Back and joint pain, sports injuries. Diagnosis and conservative treatment."
+msgstr "Rücken- und Gelenkschmerzen, Sportverletzungen. Diagnostik und konservative Behandlung."
+
+#: 404.php:13
+msgid "Back to home page"
+msgstr "Zur Startseite"
+
+#: footer.php:15
+msgid "Back to top"
+msgstr "Zum Seitenanfang"
+
+#: inc/content.php:59
+msgid "Blood tests without waiting, most results on the same day."
+msgstr "Blutabnahme ohne Wartezeit, die meisten Ergebnisse noch am selben Tag."
+
+#: template-parts/home/services.php:27
+msgid "Book an appointment"
+msgstr "Termin vereinbaren"
+
+#: header.php:51
+#: template-parts/home/cta.php:22
+#: template-parts/home/services.php:10
+msgid "Book appointment"
+msgstr "Termin buchen"
+
+#: header.php:98
+#: template-parts/home/hero.php:9
+msgid "Book online"
+msgstr "Online-Termin buchen"
+
+#: template-parts/home/booking.php:9
+msgid "Book your appointment for a specific day and time"
+msgstr "Ihr Termin – am Wunschtag zur Wunschzeit"
+
+#: inc/content.php:28
+#: inc/content.php:76
+msgid "Cardiology"
+msgstr "Kardiologie"
+
+#: template-parts/home/services.php:12
+msgid "Cards"
+msgstr "Karten"
+
+#: template-parts/home/booking.php:12
+msgid "Choose a service"
+msgstr "Leistung wählen"
+
+#: template-parts/home/booking.php:10
+msgid "Choose a service, a free slot in the calendar and fill in your contact details. You will receive a confirmation by e-mail."
+msgstr "Wählen Sie eine Leistung und einen freien Termin im Kalender und geben Sie Ihre Kontaktdaten ein. Die Bestätigung erhalten Sie per E-Mail."
+
+#: header.php:71
+msgid "Close menu"
+msgstr "Menü schließen"
+
+#: inc/content.php:17
+msgid "Comprehensive care for adult patients, from acute complaints to long-term follow-up."
+msgstr "Umfassende Betreuung erwachsener Patientinnen und Patienten – von akuten Beschwerden bis zur langfristigen Begleitung."
+
+#: inc/content.php:83
+msgid "Comprehensive care for adults and preventive check-ups."
+msgstr "Umfassende Betreuung Erwachsener und Vorsorgeuntersuchungen."
+
+#: template-parts/home/booking.php:15
+msgid "Confirmation by e-mail"
+msgstr "Bestätigung per E-Mail"
+
+#: footer.php:19
+#: functions.php:120
+msgid "Contact"
+msgstr "Kontakt"
+
+#: inc/content.php:46
+msgid "Diagnostics and ultrasound"
+msgstr "Diagnostik und Ultraschall"
+
+#: functions.php:117
+msgid "Doctors"
+msgstr "Ärzte"
+
+#: inc/content.php:29
+msgid "ECG, echocardiography and Holter monitoring. Prevention and treatment of heart and vascular disease."
+msgstr "EKG, Echokardiographie und Langzeit-EKG. Vorsorge und Behandlung von Herz- und Gefäßerkrankungen."
+
+#: inc/content.php:77
+msgid "Echocardiography, hypertension and prevention of heart disease."
+msgstr "Echokardiographie, Bluthochdruck und Vorsorge von Herzerkrankungen."
+
+#: 404.php:7
+msgid "Error 404"
+msgstr "Fehler 404"
+
+#: inc/content.php:159
+msgid "Examination at the clinic"
+msgstr "Untersuchung in der Praxis"
+
+#: template-parts/home/team.php:7
+msgid "Experienced specialists,<br>exceptional care."
+msgstr "Erfahrene Spezialisten,<br>exzellente Betreuung."
+
+#: functions.php:152
+msgid "F j, Y"
+msgstr "j. F Y"
+
+#: footer.php:53
+msgid "FAQ"
+msgstr "Fragen & Antworten"
+
+#: template-parts/home/booking.php:14
+msgid "Fill in your details"
+msgstr "Daten eingeben"
+
+#: template-parts/home/locations.php:8
+msgid "Find the clinic closest to you. You can book at every location online or by phone."
+msgstr "Finden Sie die Praxis in Ihrer Nähe. An jedem Standort können Sie online oder telefonisch einen Termin buchen."
+
+#: functions.php:35
+msgid "Footer – important links"
+msgstr "Fußzeile – wichtige Links"
+
+#: footer.php:50
+#: header.php:54
+#: template-parts/home/cta.php:10
+msgid "For doctors"
+msgstr "Für Zuweiser"
+
+#: template-parts/home/cta.php:18
+msgid "For patients"
+msgstr "Für Patienten"
+
+#: inc/content.php:16
+#: inc/content.php:82
+msgid "General practice"
+msgstr "Allgemeinmedizin"
+
+#: inc/content.php:71
+msgid "Head of department, 18 years of experience. Headaches and sleep disorders."
+msgstr "Chefärztin, 18 Jahre Erfahrung. Kopfschmerzen und Schlafstörungen."
+
+#: inc/content.php:23
+msgid "Headaches, dizziness, sleep or memory problems. EEG and EMG on site."
+msgstr "Kopfschmerzen, Schwindel, Schlaf- oder Gedächtnisstörungen. EEG und EMG direkt vor Ort."
+
+#: template-parts/home/cta.php:13
+msgid "I am a doctor and want<br>to refer a patient."
+msgstr "Ich bin Zuweiser und möchte<br>einen Patienten anmelden."
+
+#: template-parts/home/cta.php:21
+msgid "I am a patient and want<br>to book an appointment."
+msgstr "Ich bin Patient und möchte<br>einen Termin vereinbaren."
+
+#: footer.php:32
+msgid "Important links"
+msgstr "Wichtige Links"
+
+#: inc/content.php:167
+msgid "In-house laboratory"
+msgstr "Eigenes Labor"
+
+#: inc/content.php:41
+msgid "Individual exercise, manual techniques and rehabilitation after injuries and surgery."
+msgstr "Individuelle Übungen, manuelle Techniken und Rehabilitation nach Verletzungen und Operationen."
+
+#: inc/languages.php:65
+msgid "Install Polylang"
+msgstr "Polylang installieren"
+
+#: inc/content.php:58
+msgid "Laboratory"
+msgstr "Labor"
+
+#: inc/languages.php:47
+msgid "Language"
+msgstr "Sprache"
+
+#: footer.php:75
+msgid "Legal notice"
+msgstr "Impressum"
+
+#: template-parts/home/services.php:13
+msgid "List"
+msgstr "Liste"
+
+#: functions.php:34
+#: header.php:36
+msgid "Main menu"
+msgstr "Hauptmenü"
+
+#: template-parts/home/locations.php:28
+msgid "Map of %s locations"
+msgstr "Karte der Standorte von %s"
+
+#: template-parts/home/intro.php:7
+msgid "MedCentrum is a modern medical facility that brings general practice, specialists, diagnostics and a laboratory together under one roof. Book your examination online for a specific day and time – no phone calls and no time in the waiting room."
+msgstr "MedCentrum ist eine moderne medizinische Einrichtung, die Allgemeinmedizin, Fachärzte, Diagnostik und Labor unter einem Dach vereint. Ihre Untersuchung buchen Sie online für einen bestimmten Tag und eine bestimmte Uhrzeit – ohne Telefonieren und ohne Wartezimmer."
+
+#: header.php:66
+#: header.php:74
+msgid "Menu"
+msgstr "Menü"
+
+#: inc/content.php:163
+msgid "Modern diagnostics"
+msgstr "Moderne Diagnostik"
+
+#: template-parts/home/hero.php:7
+msgid "Modern medicine<br>with a human touch"
+msgstr "Moderne Medizin<br>mit menschlicher Nähe"
+
+msgid "Modern theme for a clinic or medical centre: home page with services, doctors, locations and online booking (requires the “MedCentrum – Online Booking” plugin). Multilingual DE / EN / SK with Polylang."
+msgstr "Modernes Theme für eine Praxis oder ein Gesundheitszentrum: Startseite mit Leistungen, Ärzteteam, Standorten und Online-Terminbuchung (erfordert das Plugin „MedCentrum – Online Booking“). Mehrsprachig DE / EN / SK mit Polylang."
+
+#: inc/content.php:47
+msgid "Modern ultrasound equipment and fast results during your visit."
+msgstr "Moderne Ultraschallgeräte und schnelle Befunde direkt bei Ihrem Besuch."
+
+#: inc/content.php:107
+msgid "Mon – Fri 7:00 – 18:00"
+msgstr "Mo – Fr 7:00 – 18:00"
+
+#: inc/content.php:101
+msgid "Mon – Fri 7:30 – 16:00"
+msgstr "Mo – Fr 7:30 – 16:00"
+
+#: inc/content.php:113
+msgid "Mon – Thu 8:00 – 15:00"
+msgstr "Mo – Do 8:00 – 15:00"
+
+#: template-parts/home/intro.php:8
+msgid "More about our locations"
+msgstr "Mehr über unsere Standorte"
+
+#: inc/content.php:22
+#: inc/content.php:70
+msgid "Neurology"
+msgstr "Neurologie"
+
+#: functions.php:119
+#: index.php:35
+#: template-parts/home/news.php:21
+msgid "News"
+msgstr "Aktuelles"
+
+#: template-parts/home/news.php:22
+msgid "News and events"
+msgstr "Neuigkeiten und Veranstaltungen"
+
+#: template-parts/home/services.php:35
+msgid "Next"
+msgstr "Weiter"
+
+#: index.php:58
+msgid "Nothing here yet."
+msgstr "Hier gibt es noch nichts."
+
+#: footer.php:48
+#: template-parts/home/booking.php:8
+msgid "Online booking"
+msgstr "Online-Terminbuchung"
+
+#: inc/content.php:155
+msgid "Online booking for a specific appointment"
+msgstr "Online-Buchung zu einem festen Termin"
+
+#: header.php:58
+msgid "Open menu"
+msgstr "Menü öffnen"
+
+#: footer.php:49
+msgid "Opening hours"
+msgstr "Öffnungszeiten"
+
+#: inc/content.php:34
+#: inc/content.php:88
+msgid "Orthopaedics"
+msgstr "Orthopädie"
+
+#: template-parts/home/services.php:7
+msgid "Our clinics rely on modern diagnostics, individual treatment and a personal approach. We work closely with specialists so you do not have to go from door to door."
+msgstr "In unseren Praxen setzen wir auf moderne Diagnostik, individuelle Therapien und persönliche Betreuung. Wir arbeiten eng mit Spezialisten zusammen, damit Sie nicht von Tür zu Tür gehen müssen."
+
+#: template-parts/home/team.php:8
+msgid "Our examinations are carried out by doctors with many years of experience at leading hospitals. From your GP to the neurologist and the physiotherapist, you are in the best hands."
+msgstr "Unsere Untersuchungen führen Ärztinnen und Ärzte mit langjähriger Erfahrung aus führenden Kliniken durch. Von der Hausärztin über den Neurologen bis zur Physiotherapie sind Sie bei uns in besten Händen."
+
+#: template-parts/home/locations.php:6
+msgid "Our locations"
+msgstr "Unsere Standorte"
+
+#: template-parts/home/services.php:6
+msgid "Our offer"
+msgstr "Unser Angebot"
+
+#: template-parts/home/hero.php:10
+msgid "Our services"
+msgstr "Unsere Leistungen"
+
+#: 404.php:8
+msgid "Page not found"
+msgstr "Seite nicht gefunden"
+
+#: footer.php:52
+msgid "Partner insurers"
+msgstr "Vertragsversicherungen"
+
+#: template-parts/home/cta.php:4
+msgid "Patient referral"
+msgstr "Patientenzuweisung"
+
+#: template-parts/home/gallery.php:2
+msgid "Photo gallery"
+msgstr "Bildergalerie"
+
+#: inc/content.php:40
+msgid "Physiotherapy"
+msgstr "Physiotherapie"
+
+#: template-parts/home/booking.php:13
+msgid "Pick a day and time"
+msgstr "Tag und Uhrzeit wählen"
+
+#: template-parts/home/booking.php:18
+msgid "Prefer to call?"
+msgstr "Lieber telefonisch?"
+
+#: inc/content.php:52
+msgid "Preventive check-ups"
+msgstr "Vorsorgeuntersuchungen"
+
+#: template-parts/home/services.php:34
+msgid "Previous"
+msgstr "Zurück"
+
+#: footer.php:51
+msgid "Price list"
+msgstr "Preisliste"
+
+#: footer.php:77
+msgid "Privacy policy"
+msgstr "Datenschutz"
+
+#: template-parts/home/cta.php:14
+msgid "Refer a patient"
+msgstr "Jetzt zuweisen"
+
+#: inc/content.php:53
+msgid "Regular check-ups covered by insurance and extended packages for companies."
+msgstr "Regelmäßige Vorsorge, die von der Krankenkasse übernommen wird, sowie erweiterte Pakete für Unternehmen."
+
+#: footer.php:58
+#: functions.php:116
+#: header.php:87
+msgid "Services"
+msgstr "Leistungen"
+
+#: header.php:20
+msgid "Skip to content"
+msgstr "Zum Inhalt springen"
+
+#: inc/content.php:89
+msgid "Spine, large joints and sports medicine."
+msgstr "Wirbelsäule, große Gelenke und Sportmedizin."
+
+#: template-parts/home/booking.php:29
+msgid "The booking calendar appears once the %s plugin is activated."
+msgstr "Der Buchungskalender erscheint, sobald das Plugin %s aktiviert ist."
+
+#: inc/languages.php:63
+msgid "The language switcher (DE / EN / SK) needs the free Polylang plugin."
+msgstr "Für die Sprachumschaltung (DE / EN / SK) wird das kostenlose Plugin Polylang benötigt."
+
+#: 404.php:12
+msgid "The link is probably broken or the page has moved."
+msgstr "Der Link ist vermutlich fehlerhaft oder die Seite wurde verschoben."
+
+#: footer.php:46
+msgid "Useful information"
+msgstr "Nützliche Informationen"
+
+#: template-parts/home/services.php:11
+msgid "View"
+msgstr "Ansicht"
+
+#: template-parts/home/hero.php:6
+msgid "What we offer"
+msgstr "Unser Angebot"
+
+#: template-parts/home/intro.php:5
+msgid "Your health in the best hands"
+msgstr "Ihre Gesundheit in den besten Händen"
+
+#: inc/content.php:134
+msgid "experienced doctors and specialists"
+msgstr "erfahrene Ärztinnen, Ärzte und Spezialisten"
+
+#: inc/content.php:140
+msgid "locations in Bratislava"
+msgstr "Standorte in Bratislava"
+
+#: inc/content.php:146
+msgid "specialist clinics"
+msgstr "Fachambulanzen"
+
+#: footer.php:71
+msgid "© %1$s %2$s – All rights reserved."
+msgstr "© %1$s %2$s – Alle Rechte vorbehalten."
